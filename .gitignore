@@ -1,3 +1,15 @@
-# Ignore Claude-related files and folders
-.claude
-.claude/
+*/build/
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+
+
+*/build/
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+
