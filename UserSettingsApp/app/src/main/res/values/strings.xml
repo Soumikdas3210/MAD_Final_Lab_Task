@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UserSettingsApp</string>
+
+    <string-array name="department_options">
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>BBA</item>
+        <item>English</item>
+        <item>Law</item>
+    </string-array>
+
+    <string-array name="year_options">
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+    </string-array>
+</resources>
