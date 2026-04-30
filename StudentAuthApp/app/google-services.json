@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "918294546117",
+    "firebase_url": "https://studentauthapp-2-default-rtdb.firebaseio.com",
+    "project_id": "studentauthapp-2",
+    "storage_bucket": "studentauthapp-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918294546117:android:a4dfe548a6c677a458d2ac",
+        "android_client_info": {
+          "package_name": "com.university.studentauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8s04y-kjMmAzQxRuFNS-jFoBAEvggfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
