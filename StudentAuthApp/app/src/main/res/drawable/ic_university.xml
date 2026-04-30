@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Base building -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,8 L8,32 L16,32 L16,80 L80,80 L80,32 L88,32 Z" />
+    <!-- Center door -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M40,56 L40,80 L56,80 L56,56 Z" />
+    <!-- Left window -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M22,40 L22,52 L34,52 L34,40 Z" />
+    <!-- Right window -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M62,40 L62,52 L74,52 L74,40 Z" />
+    <!-- Roof peak cap -->
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M44,8 L52,8 L52,18 L44,18 Z" />
+    <!-- Ground line -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M4,80 L92,80 L92,86 L4,86 Z" />
+</vector>

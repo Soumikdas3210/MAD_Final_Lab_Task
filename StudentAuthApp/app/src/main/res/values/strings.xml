@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Student Portal</string>
+    <string name="app_subtitle">University Student Portal</string>
+
+    <!-- Splash -->
+    <string name="welcome_title">Student Portal</string>
+
+    <!-- Register -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Join the University Student Portal</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_register">Create Account</string>
+    <string name="already_have_account">Already have an account? <b>Login</b></string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to your account</string>
+    <string name="btn_login">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account? <b>Register</b></string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_title">Reset Password</string>
+    <string name="forgot_subtitle">Enter your email to receive a reset link</string>
+    <string name="btn_send_reset">Send Reset Email</string>
+    <string name="reset_success">Reset email sent. Check your inbox.</string>
+
+    <!-- Home -->
+    <string name="home_welcome">Welcome back!</string>
+    <string name="label_email">Email</string>
+    <string name="label_uid">User ID</string>
+    <string name="label_member_since">Member Since</string>
+    <string name="badge_logged_in">● You are logged in</string>
+    <string name="btn_logout">Logout</string>
+    <string name="change_password_title">Change Password</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="hint_confirm_new_password">Confirm New Password</string>
+    <string name="btn_update_password">Update Password</string>
+    <string name="btn_delete_account">Delete Account</string>
+    <string name="delete_confirm_title">Delete Account</string>
+    <string name="delete_confirm_message">Are you sure you want to permanently delete your account? This action cannot be undone.</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="password_updated">Password updated successfully.</string>
+    <string name="account_deleted">Account deleted.</string>
+</resources>
